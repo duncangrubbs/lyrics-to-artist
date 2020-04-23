@@ -1,0 +1,1005 @@
+{
+ "alternate_names": [
+  "John R. Cash",
+  "J.R. Cash"
+ ],
+ "api_path": "/artists/1167",
+ "description": {
+  "plain": "Johnny Cash (26 February 1932 \u2013 12 September 2003) was an iconic singer and songwriter who primarily operated in the genre of country music, but was an integral figure in the popularization of rock and roll. One of the most influential musicians of the 20th century, he was inducted into the country, rock and roll and gospel Music Hall of Fame.\n\nKnown for his somber and humble stage demeanor, he almost always started his concerts with a simple \u201cHello, I\u2019m Johnny Cash.\u201d\n\nhttps://www.youtube.com/watch?v=Ca2ioOapKsQ\n\nMuch of his catalog focuses on the human condition, sorrow, oppression and the hope of redemption. And his catalog is huge, rivaling that of Hank Williams Sr., David Bowie and Prince. Starting in the 50s and ending just before his death in 2003, his deep baritone voice is instantly recognized by music lovers the world over.\n\nAbout his love of music, Cash said:\n\nI knew I wanted to sing when I was a very small boy. When I was four, my mother would play the guitar and I would sit with her. She would sing and I learned to sing along with her."
+ },
+ "facebook_name": "",
+ "followers_count": 162,
+ "header_image_url": "https://images.genius.com/3464538f1e56018d8ccdff74d498151e.851x315x1.jpg",
+ "id": 1167,
+ "image_url": "https://images.genius.com/3e9e29a781c26d78d3b695027ddb52e6.598x598x1.jpg",
+ "instagram_name": "",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Johnny Cash",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Johnny-cash",
+ "current_user_metadata": {
+  "permissions": [
+   "follow",
+   "view_activity_stream",
+   "view_contribution_opportunities"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1217557,
+  "annotator_login": "GeorgePlant",
+  "api_path": "/referents/6927287",
+  "classification": "accepted",
+  "fragment": "Johnny Cash",
+  "id": 6927287,
+  "is_description": true,
+  "path": "/6927287/Johnny-cash/Johnny-cash",
+  "range": {
+   "content": "Johnny Cash"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6927287/Johnny-cash/Johnny-cash",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1167",
+   "context": null,
+   "id": 1167,
+   "image_url": "https://images.genius.com/3e9e29a781c26d78d3b695027ddb52e6.598x598x1.jpg",
+   "link_title": "Johnny Cash",
+   "title": "Johnny Cash",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Johnny-cash"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6927287",
+    "body": {
+     "plain": "Johnny Cash (26 February 1932 \u2013 12 September 2003) was an iconic singer and songwriter who primarily operated in the genre of country music, but was an integral figure in the popularization of rock and roll. One of the most influential musicians of the 20th century, he was inducted into the country, rock and roll and gospel Music Hall of Fame.\n\nKnown for his somber and humble stage demeanor, he almost always started his concerts with a simple \u201cHello, I\u2019m Johnny Cash.\u201d\n\nhttps://www.youtube.com/watch?v=Ca2ioOapKsQ\n\nMuch of his catalog focuses on the human condition, sorrow, oppression and the hope of redemption. And his catalog is huge, rivaling that of Hank Williams Sr., David Bowie and Prince. Starting in the 50s and ending just before his death in 2003, his deep baritone voice is instantly recognized by music lovers the world over.\n\nAbout his love of music, Cash said:\n\nI knew I wanted to sing when I was a very small boy. When I was four, my mother would play the guitar and I would sit with her. She would sing and I learned to sing along with her."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6927287,
+    "pinned": false,
+    "share_url": "https://genius.com/6927287",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6927287/Johnny-cash/Johnny-cash",
+    "verified": false,
+    "votes_total": 36,
+    "current_user_metadata": {
+     "permissions": [
+      "vote",
+      "propose_edit_to",
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {
+      "accept": {
+       "primary": {
+        "multiplier": 1,
+        "base": 10.0,
+        "applicable": true
+       }
+      },
+      "reject": {
+       "primary": {
+        "multiplier": 1,
+        "base": 2.0,
+        "applicable": true
+       }
+      },
+      "delete": {
+       "primary": {
+        "multiplier": 1,
+        "base": 5.0,
+        "applicable": true
+       }
+      }
+     }
+    },
+    "authors": [
+     {
+      "attribution": 0.6926229508196721,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1217557",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/65f772e7f2e16e7f409f1fedd7bf26a0",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/65f772e7f2e16e7f409f1fedd7bf26a0",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/65f772e7f2e16e7f409f1fedd7bf26a0",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/65f772e7f2e16e7f409f1fedd7bf26a0",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/XbFFIBHTQ9604Lpkyyy6_4d2809d0394b7de9b396ad7fc8f3d56d.770x186x1.jpg",
+       "human_readable_role_for_display": "Moderator",
+       "id": 1217557,
+       "iq": 190241,
+       "login": "GeorgePlant",
+       "name": "George Plant",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/GeorgePlant",
+       "current_user_metadata": {
+        "permissions": [
+         "follow"
+        ],
+        "excluded_permissions": [],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.18442622950819673,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1826937",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/807b3154298c1caffd337fda595107ef",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/807b3154298c1caffd337fda595107ef",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/807b3154298c1caffd337fda595107ef",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/807b3154298c1caffd337fda595107ef",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/807b3154298c1caffd337fda595107ef",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1826937,
+       "iq": 5870,
+       "login": "eitheror",
+       "name": "eitheror",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/eitheror",
+       "current_user_metadata": {
+        "permissions": [
+         "follow"
+        ],
+        "excluded_permissions": [],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.12295081967213115,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/324195",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/17e00fb07297aa33e4dc5ac63f2c0bc8",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/17e00fb07297aa33e4dc5ac63f2c0bc8",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/17e00fb07297aa33e4dc5ac63f2c0bc8",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/17e00fb07297aa33e4dc5ac63f2c0bc8",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cMIlPVvTWed7dnjN9jWS_black-white-thundercloud-lighting-strikes-storm-animated-gif.gif",
+       "human_readable_role_for_display": "Editor",
+       "id": 324195,
+       "iq": 35112,
+       "login": "Jeyz24",
+       "name": "Jeyz24",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Jeyz24",
+       "current_user_metadata": {
+        "permissions": [
+         "follow"
+        ],
+        "excluded_permissions": [],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 3,
+   "api_path": "/songs/1139320",
+   "apple_music_id": "3678230",
+   "apple_music_player_url": "https://genius.com/songs/1139320/apple_music_player",
+   "description": {
+    "plain": "\u201cYou Are My Sunshine\u201d was written by Jimmie Davis and Charles Mitchell in 1939. It\u2019s been covered more times than you\u2019d want to list, but this one by Johnny Cash is one of the most popular interpretations of the song.\n\nIt\u2019s worth noting that some historians claim Paul Rice actually wrote the tune and sold it to Davis."
+   },
+   "embed_content": "<div id='rg_embed_link_1139320' class='rg_embed_link' data-song-id='1139320'>Read <a href='https://genius.com/Johnny-cash-you-are-my-sunshine-lyrics'>\u201cYou Are My Sunshine\u201d by Johnny\u00a0Cash</a> on Genius</div> <script crossorigin src='//genius.com/songs/1139320/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "You Are My Sunshine by\u00a0Johnny\u00a0Cash",
+   "header_image_thumbnail_url": "https://images.genius.com/6439a2c8110fc128e71268d433f4f86c.300x300x1.png",
+   "header_image_url": "https://images.genius.com/6439a2c8110fc128e71268d433f4f86c.712x712x1.png",
+   "id": 1139320,
+   "lyrics_owner_id": 4624897,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Johnny-cash-you-are-my-sunshine-lyrics",
+   "pyongs_count": 6,
+   "recording_location": null,
+   "release_date": "1989-11-25",
+   "release_date_for_display": "November 25, 1989",
+   "song_art_image_thumbnail_url": "https://images.genius.com/6439a2c8110fc128e71268d433f4f86c.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/6439a2c8110fc128e71268d433f4f86c.712x712x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 33,
+    "iq_earners": 32,
+    "transcribers": 3,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 1195767
+   },
+   "title": "You Are My Sunshine",
+   "title_with_featured": "You Are My Sunshine",
+   "url": "https://genius.com/Johnny-cash-you-are-my-sunshine-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "follow",
+     "see_pageviews",
+     "pyong",
+     "add_community_annotation_to",
+     "view_apple_music_player",
+     "create_comment",
+     "create_annotation",
+     "view_song_story_gallery",
+     "propose_lyrics_edit"
+    ],
+    "excluded_permissions": [
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {
+     "pinned_role": null
+    },
+    "iq_by_action": {
+     "edit_metadata": {
+      "primary": {
+       "multiplier": 1,
+       "base": 2.0,
+       "applicable": true
+      }
+     }
+    }
+   },
+   "album": {
+    "api_path": "/albums/422191",
+    "cover_art_url": "https://images.genius.com/b91e48a6660979ef307771db94226ef6.600x600x1.jpg",
+    "full_title": "Unearthed 3: Redemption Songs by Johnny Cash",
+    "id": 422191,
+    "name": "Unearthed 3: Redemption Songs",
+    "url": "https://genius.com/albums/Johnny-cash/Unearthed-3-redemption-songs",
+    "artist": {
+     "api_path": "/artists/1167",
+     "header_image_url": "https://images.genius.com/3464538f1e56018d8ccdff74d498151e.851x315x1.jpg",
+     "id": 1167,
+     "image_url": "https://images.genius.com/3e9e29a781c26d78d3b695027ddb52e6.598x598x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Johnny Cash",
+     "url": "https://genius.com/artists/Johnny-cash"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1217557,
+    "annotator_login": "GeorgePlant",
+    "api_path": "/referents/5640165",
+    "classification": "accepted",
+    "fragment": "You Are My Sunshine",
+    "id": 5640165,
+    "is_description": true,
+    "path": "/5640165/Johnny-cash-you-are-my-sunshine/You-are-my-sunshine",
+    "range": {
+     "content": "You Are My Sunshine"
+    },
+    "song_id": 1139320,
+    "url": "https://genius.com/5640165/Johnny-cash-you-are-my-sunshine/You-are-my-sunshine",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1139320",
+     "client_timestamps": {
+      "updated_by_human_at": 1585002746,
+      "lyrics_updated_at": 1573489055
+     },
+     "context": "Johnny Cash",
+     "id": 1139320,
+     "image_url": "https://images.genius.com/6439a2c8110fc128e71268d433f4f86c.712x712x1.png",
+     "link_title": "You Are My Sunshine by\u00a0Johnny\u00a0Cash",
+     "title": "You Are My Sunshine",
+     "type": "Song",
+     "url": "https://genius.com/Johnny-cash-you-are-my-sunshine-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5640165",
+      "body": {
+       "plain": "\u201cYou Are My Sunshine\u201d was written by Jimmie Davis and Charles Mitchell in 1939. It\u2019s been covered more times than you\u2019d want to list, but this one by Johnny Cash is one of the most popular interpretations of the song.\n\nIt\u2019s worth noting that some historians claim Paul Rice actually wrote the tune and sold it to Davis."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 5640165,
+      "pinned": false,
+      "share_url": "https://genius.com/5640165",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/5640165/Johnny-cash-you-are-my-sunshine/You-are-my-sunshine",
+      "verified": false,
+      "votes_total": 18,
+      "current_user_metadata": {
+       "permissions": [
+        "vote",
+        "propose_edit_to",
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {
+        "accept": {
+         "primary": {
+          "multiplier": 1,
+          "base": 10.0,
+          "applicable": true
+         }
+        },
+        "reject": {
+         "primary": {
+          "multiplier": 1,
+          "base": 2.0,
+          "applicable": true
+         }
+        },
+        "delete": {
+         "primary": {
+          "multiplier": 1,
+          "base": 5.0,
+          "applicable": true
+         }
+        }
+       }
+      },
+      "authors": [
+       {
+        "attribution": 0.5,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1217557",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/65f772e7f2e16e7f409f1fedd7bf26a0",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/65f772e7f2e16e7f409f1fedd7bf26a0",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/65f772e7f2e16e7f409f1fedd7bf26a0",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/65f772e7f2e16e7f409f1fedd7bf26a0",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/XbFFIBHTQ9604Lpkyyy6_4d2809d0394b7de9b396ad7fc8f3d56d.770x186x1.jpg",
+         "human_readable_role_for_display": "Moderator",
+         "id": 1217557,
+         "iq": 190241,
+         "login": "GeorgePlant",
+         "name": "George Plant",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/GeorgePlant",
+         "current_user_metadata": {
+          "permissions": [
+           "follow"
+          ],
+          "excluded_permissions": [],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.46551724137931033,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/324195",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/17e00fb07297aa33e4dc5ac63f2c0bc8",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/17e00fb07297aa33e4dc5ac63f2c0bc8",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/17e00fb07297aa33e4dc5ac63f2c0bc8",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/17e00fb07297aa33e4dc5ac63f2c0bc8",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cMIlPVvTWed7dnjN9jWS_black-white-thundercloud-lighting-strikes-storm-animated-gif.gif",
+         "human_readable_role_for_display": "Editor",
+         "id": 324195,
+         "iq": 35112,
+         "login": "Jeyz24",
+         "name": "Jeyz24",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Jeyz24",
+         "current_user_metadata": {
+          "permissions": [
+           "follow"
+          ],
+          "excluded_permissions": [],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.017241379310344827,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3615049",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/9bjbllj8n4r",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/9bjbllj8n4r",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/9bjbllj8n4r",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/9bjbllj8n4r",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5agmjdovu8e",
+         "human_readable_role_for_display": null,
+         "id": 3615049,
+         "iq": 131,
+         "login": "newerskypetunia",
+         "name": "newerskypetunia",
+         "role_for_display": null,
+         "url": "https://genius.com/newerskypetunia",
+         "current_user_metadata": {
+          "permissions": [
+           "follow"
+          ],
+          "excluded_permissions": [],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.017241379310344827,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/274616",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/17c524edd4fa358e7b889ba532dc9bd4",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/17c524edd4fa358e7b889ba532dc9bd4",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/17c524edd4fa358e7b889ba532dc9bd4",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/17c524edd4fa358e7b889ba532dc9bd4",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/fae85dd9c98408553234e927e90dd52f.552x255x50.gif",
+         "human_readable_role_for_display": "Editor",
+         "id": 274616,
+         "iq": 100055,
+         "login": "MisterM",
+         "name": "Mr. Mendola",
+         "role_for_display": "editor",
+         "url": "https://genius.com/MisterM",
+         "current_user_metadata": {
+          "permissions": [
+           "follow"
+          ],
+          "excluded_permissions": [],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=cGa3zFRqDn4"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1167",
+    "header_image_url": "https://images.genius.com/3464538f1e56018d8ccdff74d498151e.851x315x1.jpg",
+    "id": 1167,
+    "image_url": "https://images.genius.com/3e9e29a781c26d78d3b695027ddb52e6.598x598x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Johnny Cash",
+    "url": "https://genius.com/artists/Johnny-cash"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/27794",
+     "header_image_url": "https://images.genius.com/c10b9ff27fddc3000e3298dd22d6c886.300x300x1.jpg",
+     "id": 27794,
+     "image_url": "https://images.genius.com/c10b9ff27fddc3000e3298dd22d6c886.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Rick Rubin",
+     "url": "https://genius.com/artists/Rick-rubin",
+     "iq": 27893
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/497242",
+       "full_title": "You Are My Sunshine by\u00a0Jimmie\u00a0Davis",
+       "header_image_thumbnail_url": "https://images.rapgenius.com/20d6505ffa01fe43bf80ec3e27455608.300x259x1.jpg",
+       "header_image_url": "https://images.rapgenius.com/20d6505ffa01fe43bf80ec3e27455608.600x518x1.jpg",
+       "id": 497242,
+       "lyrics_owner_id": 172611,
+       "lyrics_state": "complete",
+       "path": "/Jimmie-davis-you-are-my-sunshine-lyrics",
+       "pyongs_count": 4,
+       "song_art_image_thumbnail_url": "https://images.rapgenius.com/180f0ef40928c5c347ec90ae55f14bdf.300x238x1.jpg",
+       "song_art_image_url": "https://images.rapgenius.com/180f0ef40928c5c347ec90ae55f14bdf.500x396x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 52983
+       },
+       "title": "You Are My Sunshine",
+       "title_with_featured": "You Are My Sunshine",
+       "url": "https://genius.com/Jimmie-davis-you-are-my-sunshine-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/217139",
+        "header_image_url": "https://images.genius.com/bf31c06669b1ad3e149f92e9090efb50.300x300x1.jpg",
+        "id": 217139,
+        "image_url": "https://images.genius.com/983b77a88e3cfb7c01763c2e210b8958.300x300x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Jimmie Davis",
+        "url": "https://genius.com/artists/Jimmie-davis"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2125746",
+       "full_title": "T\u00fa Eres Mi Dicha by\u00a0Jaci\u00a0Velasquez",
+       "header_image_thumbnail_url": "https://images.genius.com/9a39352e91bfca2b09d42feb5d1617d3.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/9a39352e91bfca2b09d42feb5d1617d3.442x442x1.jpg",
+       "id": 2125746,
+       "lyrics_owner_id": 5706090,
+       "lyrics_state": "complete",
+       "path": "/Jaci-velasquez-tu-eres-mi-dicha-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/9a39352e91bfca2b09d42feb5d1617d3.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/9a39352e91bfca2b09d42feb5d1617d3.442x442x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "T\u00fa Eres Mi Dicha",
+       "title_with_featured": "T\u00fa Eres Mi Dicha",
+       "url": "https://genius.com/Jaci-velasquez-tu-eres-mi-dicha-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/353626",
+        "header_image_url": "https://images.genius.com/4edd1a65395862bf219a81a140ee5ba7.694x449x1.jpg",
+        "id": 353626,
+        "image_url": "https://images.genius.com/0afea149b568d6a69a10b9729926bd40.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Jaci Velasquez",
+        "url": "https://genius.com/artists/Jaci-velasquez"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/3171004",
+       "full_title": "You Are My Sunshine by\u00a0Frank\u00a0Iero",
+       "header_image_thumbnail_url": "https://images.genius.com/1d4607435a7ff0548f664dcc9a8c275b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/1d4607435a7ff0548f664dcc9a8c275b.750x750x1.jpg",
+       "id": 3171004,
+       "lyrics_owner_id": 4347159,
+       "lyrics_state": "complete",
+       "path": "/Frank-iero-you-are-my-sunshine-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/1d4607435a7ff0548f664dcc9a8c275b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/1d4607435a7ff0548f664dcc9a8c275b.750x750x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "You Are My Sunshine",
+       "title_with_featured": "You Are My Sunshine",
+       "url": "https://genius.com/Frank-iero-you-are-my-sunshine-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/212008",
+        "header_image_url": "https://images.genius.com/aa7eb69cfa896dbc32f8aa59e526b78f.700x400x1.jpg",
+        "id": 212008,
+        "image_url": "https://images.genius.com/81e174198534fb36a58762ab2720fc0d.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Frank Iero",
+        "url": "https://genius.com/artists/Frank-iero"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4874493",
+       "full_title": "You Are My Sunshine by\u00a0Jillian\u00a0Edwards",
+       "header_image_thumbnail_url": "https://images.genius.com/4c80dd4c892c3f263be31378933f1770.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/4c80dd4c892c3f263be31378933f1770.500x500x1.jpg",
+       "id": 4874493,
+       "lyrics_owner_id": 8664184,
+       "lyrics_state": "complete",
+       "path": "/Jillian-edwards-you-are-my-sunshine-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/4c80dd4c892c3f263be31378933f1770.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/4c80dd4c892c3f263be31378933f1770.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "You Are My Sunshine",
+       "title_with_featured": "You Are My Sunshine",
+       "url": "https://genius.com/Jillian-edwards-you-are-my-sunshine-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/375685",
+        "header_image_url": "https://images.genius.com/fc2bb8079dc8a1ab084c7cabf315fdf5.337x337x1.jpg",
+        "id": 375685,
+        "image_url": "https://images.genius.com/fc2bb8079dc8a1ab084c7cabf315fdf5.337x337x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Jillian Edwards",
+        "url": "https://genius.com/artists/Jillian-edwards"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/634030",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "id": 634030,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Charles Mitchell",
+     "url": "https://genius.com/artists/Charles-mitchell"
+    },
+    {
+     "api_path": "/artists/217139",
+     "header_image_url": "https://images.genius.com/bf31c06669b1ad3e149f92e9090efb50.300x300x1.jpg",
+     "id": 217139,
+     "image_url": "https://images.genius.com/983b77a88e3cfb7c01763c2e210b8958.300x300x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jimmie Davis",
+     "url": "https://genius.com/artists/Jimmie-davis"
+    }
+   ],
+   "lyrics": "[Verse 1]\nThe other night dear, as I lay sleeping\nI dreamed I held you in my arms\nWhen I awoke, dear, I was mistaken\nSo I bowed my head and I cried\n\n[Chorus]\nYou are my sunshine, my only sunshine\nYou make me happy when skies are gray\nYou'll never know, dear, how much I love you\nPlease don't take my sunshine away\n\n[Verse 2]\nI've always loved you and made you happy\nAnd nothing else could come between\nBut now you've left me to love another\nYou have shattered all of my dreams\n\n[Chorus]\nYou are my sunshine, my only sunshine\nYou make me happy when skies are gray\nYou'll never know, dear, how much I love you\nPlease don't take my sunshine away"
+  }
+ ]
+}

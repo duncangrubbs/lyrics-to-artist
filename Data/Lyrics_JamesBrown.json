@@ -1,0 +1,1247 @@
+{
+ "alternate_names": [
+  "James J. Brown",
+  "James Joseph Brown"
+ ],
+ "api_path": "/artists/8417",
+ "description": {
+  "plain": "James Brown was a singer-songwriter, producer, bandleader, and dancer. He was known as the \u201cGodfather of Soul,\u201d \u201cSoul Brother Number 1,\u201d \u201cMr. Dynamite,\u201d and \u201cthe hardest working man in show business.\u201d He was instrumental in the development of a number of popular musical styles such as Funk, P-Funk and hip-hop.\n\nBrown began his career as a gospel singer in Toccoa, Georgia in the early 1950s. He connected with his longtime musical partner Bobby Byrd in the late 1940s as a teenager and Brown later joined Byrd\u2019s group called the Gospel Starlighters, which changed to the Avons before switching to the Flames and then the Famous Flames. Hit ballads \u201cPlease, Please, Please\u201d and \u201cTry Me\u201d brought national attention to Brown in the late 1950s, as he built a reputation as a relentless live performer with the Famous Flames.\n\nIn the 1960s and \u201870s, Brown moved away from the doo-wop sounds he performed with the Famous Flames and would begin making the heavy funk grooves he became known for. He led a band of talented musicians in a group known as The J.B.\u2019s, which included Fred Wesley, Maceo Parker, and Bootsy Collins before he broke off to join Parliament-Funkadelic. He also became noted for creating songs with social commentary, most notably the 1968 hit \u201cSay It Loud (I\u2019m Black and I\u2019m Proud).\u201d\n\nWhile interest in Brown\u2019s new releases waned towards the end of the 1970s and into the 1980s, his back catalogue saw a resurgence in popularity as his funky compositions were being heavily sampled by hip-hop producers in the 1980s. It would be a few years before he actually began to profit off this when the laws around sampling were changed and required the samplers to pay the publishers. Brown is the most sampled artist and he is behind three of the most sampled songs of all-time: \u201cFunky President (People It\u2019s Bad),\u201d Clyde Stubblefield\u2019s drum break on \u201cFunky Drummer,\u201d and Lyn Collins\u2018 \u201cThink (About It),\u201d which he produced and provided with background vocals.\n\nBrown has received multiple honors, including a star on the Hollywood Walk of Fame, induction into the Rock & Roll Hall of Fame, and a Lifetime Achievement Award from the Grammy Awards. Brown continued to perform until his death on December 25, 2006 from congestive heart failure."
+ },
+ "facebook_name": null,
+ "followers_count": 72,
+ "header_image_url": "https://s3.amazonaws.com/rapgenius/james_brown.jpg",
+ "id": 8417,
+ "image_url": "https://s3.amazonaws.com/rapgenius/james_brown.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "James Brown",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/James-brown",
+ "current_user_metadata": {
+  "permissions": [
+   "follow",
+   "view_activity_stream",
+   "view_contribution_opportunities"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 50,
+  "annotator_login": "AlysonWonderland",
+  "api_path": "/referents/6934324",
+  "classification": "accepted",
+  "fragment": "James Brown",
+  "id": 6934324,
+  "is_description": true,
+  "path": "/6934324/James-brown/James-brown",
+  "range": {
+   "content": "James Brown"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6934324/James-brown/James-brown",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/8417",
+   "context": null,
+   "id": 8417,
+   "image_url": "https://s3.amazonaws.com/rapgenius/james_brown.jpg",
+   "link_title": "James Brown",
+   "title": "James Brown",
+   "type": "Artist",
+   "url": "https://genius.com/artists/James-brown"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6934324",
+    "body": {
+     "plain": "James Brown was a singer-songwriter, producer, bandleader, and dancer. He was known as the \u201cGodfather of Soul,\u201d \u201cSoul Brother Number 1,\u201d \u201cMr. Dynamite,\u201d and \u201cthe hardest working man in show business.\u201d He was instrumental in the development of a number of popular musical styles such as Funk, P-Funk and hip-hop.\n\nBrown began his career as a gospel singer in Toccoa, Georgia in the early 1950s. He connected with his longtime musical partner Bobby Byrd in the late 1940s as a teenager and Brown later joined Byrd\u2019s group called the Gospel Starlighters, which changed to the Avons before switching to the Flames and then the Famous Flames. Hit ballads \u201cPlease, Please, Please\u201d and \u201cTry Me\u201d brought national attention to Brown in the late 1950s, as he built a reputation as a relentless live performer with the Famous Flames.\n\nIn the 1960s and \u201870s, Brown moved away from the doo-wop sounds he performed with the Famous Flames and would begin making the heavy funk grooves he became known for. He led a band of talented musicians in a group known as The J.B.\u2019s, which included Fred Wesley, Maceo Parker, and Bootsy Collins before he broke off to join Parliament-Funkadelic. He also became noted for creating songs with social commentary, most notably the 1968 hit \u201cSay It Loud (I\u2019m Black and I\u2019m Proud).\u201d\n\nWhile interest in Brown\u2019s new releases waned towards the end of the 1970s and into the 1980s, his back catalogue saw a resurgence in popularity as his funky compositions were being heavily sampled by hip-hop producers in the 1980s. It would be a few years before he actually began to profit off this when the laws around sampling were changed and required the samplers to pay the publishers. Brown is the most sampled artist and he is behind three of the most sampled songs of all-time: \u201cFunky President (People It\u2019s Bad),\u201d Clyde Stubblefield\u2019s drum break on \u201cFunky Drummer,\u201d and Lyn Collins\u2018 \u201cThink (About It),\u201d which he produced and provided with background vocals.\n\nBrown has received multiple honors, including a star on the Hollywood Walk of Fame, induction into the Rock & Roll Hall of Fame, and a Lifetime Achievement Award from the Grammy Awards. Brown continued to perform until his death on December 25, 2006 from congestive heart failure."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6934324,
+    "pinned": false,
+    "share_url": "https://genius.com/6934324",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6934324/James-brown/James-brown",
+    "verified": false,
+    "votes_total": 25,
+    "current_user_metadata": {
+     "permissions": [
+      "vote",
+      "propose_edit_to",
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {
+      "accept": {
+       "primary": {
+        "multiplier": 1,
+        "base": 10.0,
+        "applicable": true
+       }
+      },
+      "reject": {
+       "primary": {
+        "multiplier": 1,
+        "base": 2.0,
+        "applicable": true
+       }
+      },
+      "delete": {
+       "primary": {
+        "multiplier": 1,
+        "base": 5.0,
+        "applicable": true
+       }
+      }
+     }
+    },
+    "authors": [
+     {
+      "attribution": 0.6447368421052632,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3492882",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/981605b56878ef16a812df453300d0fc",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/981605b56878ef16a812df453300d0fc",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/981605b56878ef16a812df453300d0fc",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/981605b56878ef16a812df453300d0fc",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/981605b56878ef16a812df453300d0fc",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3492882,
+       "iq": 1151593,
+       "login": "SmashBeezy",
+       "name": "SmashBeezy",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/SmashBeezy",
+       "current_user_metadata": {
+        "permissions": [
+         "follow"
+        ],
+        "excluded_permissions": [],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.2631578947368421,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2632310",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/5816663acd5e569d10f16693ad5ee3d7",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/5816663acd5e569d10f16693ad5ee3d7",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/5816663acd5e569d10f16693ad5ee3d7",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/5816663acd5e569d10f16693ad5ee3d7",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/5816663acd5e569d10f16693ad5ee3d7",
+       "human_readable_role_for_display": "Editor",
+       "id": 2632310,
+       "iq": 19369,
+       "login": "AndreTorres",
+       "name": "Andre Torres",
+       "role_for_display": "editor",
+       "url": "https://genius.com/AndreTorres",
+       "current_user_metadata": {
+        "permissions": [
+         "follow"
+        ],
+        "excluded_permissions": [],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.06052631578947368,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/26800",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/eec90a6134a73b4d37399cafa25ed696",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/eec90a6134a73b4d37399cafa25ed696",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/eec90a6134a73b4d37399cafa25ed696",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/eec90a6134a73b4d37399cafa25ed696",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/W4FmMzALQ5WB8Brb74pf_tame.header3.gif",
+       "human_readable_role_for_display": "Editor",
+       "id": 26800,
+       "iq": 5848,
+       "login": "isaiahgreene",
+       "name": "isaiahgreene",
+       "role_for_display": "editor",
+       "url": "https://genius.com/isaiahgreene",
+       "current_user_metadata": {
+        "permissions": [
+         "follow"
+        ],
+        "excluded_permissions": [],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.023684210526315787,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/50",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/f815fe8f1b9c915e5b77e6089431c771",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/f815fe8f1b9c915e5b77e6089431c771",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/f815fe8f1b9c915e5b77e6089431c771",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/f815fe8f1b9c915e5b77e6089431c771",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/f815fe8f1b9c915e5b77e6089431c771",
+       "human_readable_role_for_display": "Contributor",
+       "id": 50,
+       "iq": 2345,
+       "login": "AlysonWonderland",
+       "name": "AlysonWonderland",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/AlysonWonderland",
+       "current_user_metadata": {
+        "permissions": [
+         "follow"
+        ],
+        "excluded_permissions": [],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.007894736842105263,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6823762",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/8627ad2209e4a151a5b8516991ce9315",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/8627ad2209e4a151a5b8516991ce9315",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/8627ad2209e4a151a5b8516991ce9315",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/8627ad2209e4a151a5b8516991ce9315",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/gx169j8pg6",
+       "human_readable_role_for_display": "Editor",
+       "id": 6823762,
+       "iq": 153988,
+       "login": "PierFrancescoCosta",
+       "name": "PierFrancescoCosta",
+       "role_for_display": "editor",
+       "url": "https://genius.com/PierFrancescoCosta",
+       "current_user_metadata": {
+        "permissions": [
+         "follow"
+        ],
+        "excluded_permissions": [],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 5,
+   "api_path": "/songs/67974",
+   "apple_music_id": "317627434",
+   "apple_music_player_url": "https://genius.com/songs/67974/apple_music_player",
+   "description": {
+    "plain": "Released in 1966, this is one of Brown\u2019s most powerful and well received ballads. As well as a staple of his live shows for years to come."
+   },
+   "embed_content": "<div id='rg_embed_link_67974' class='rg_embed_link' data-song-id='67974'>Read <a href='https://genius.com/James-brown-its-a-mans-world-lyrics'>\u201cIt's a Man's World\u201d by James\u00a0Brown</a> on Genius</div> <script crossorigin src='//genius.com/songs/67974/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "It's a Man's World by\u00a0James\u00a0Brown",
+   "header_image_thumbnail_url": "https://images.genius.com/e6e348fdb8e4b0ba6bc6e11e2d43a0c8.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/e6e348fdb8e4b0ba6bc6e11e2d43a0c8.306x306x1.jpg",
+   "id": 67974,
+   "lyrics_owner_id": 21564,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/James-brown-its-a-mans-world-lyrics",
+   "pyongs_count": 13,
+   "recording_location": null,
+   "release_date": "1991-05-07",
+   "release_date_for_display": "May 7, 1991",
+   "song_art_image_thumbnail_url": "https://images.genius.com/e6e348fdb8e4b0ba6bc6e11e2d43a0c8.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/e6e348fdb8e4b0ba6bc6e11e2d43a0c8.306x306x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 17,
+    "iq_earners": 17,
+    "transcribers": 3,
+    "unreviewed_annotations": 3,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 253937
+   },
+   "title": "It\u2019s a Man\u2019s World",
+   "title_with_featured": "It's a Man's World",
+   "url": "https://genius.com/James-brown-its-a-mans-world-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "follow",
+     "see_pageviews",
+     "pyong",
+     "add_community_annotation_to",
+     "view_apple_music_player",
+     "create_comment",
+     "create_annotation",
+     "view_song_story_gallery",
+     "propose_lyrics_edit"
+    ],
+    "excluded_permissions": [
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {
+     "pinned_role": null
+    },
+    "iq_by_action": {
+     "edit_metadata": {
+      "primary": {
+       "multiplier": 1,
+       "base": 2.0,
+       "applicable": true
+      }
+     }
+    }
+   },
+   "album": {
+    "api_path": "/albums/101536",
+    "cover_art_url": "https://images.genius.com/72180a4ad189ecf4529dab09b208acaa.500x500x1.jpg",
+    "full_title": "Star Time by James Brown",
+    "id": 101536,
+    "name": "Star Time",
+    "url": "https://genius.com/albums/James-brown/Star-time",
+    "artist": {
+     "api_path": "/artists/8417",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/james_brown.jpg",
+     "id": 8417,
+     "image_url": "https://s3.amazonaws.com/rapgenius/james_brown.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "James Brown",
+     "url": "https://genius.com/artists/James-brown"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3087770,
+    "annotator_login": "MoreMartinThanMartin",
+    "api_path": "/referents/3560968",
+    "classification": "accepted",
+    "fragment": "It\u2019s a Man\u2019s World",
+    "id": 3560968,
+    "is_description": true,
+    "path": "/3560968/James-brown-its-a-mans-world/Its-a-mans-world",
+    "range": {
+     "content": "It's a Man's World"
+    },
+    "song_id": 67974,
+    "url": "https://genius.com/3560968/James-brown-its-a-mans-world/Its-a-mans-world",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/67974",
+     "client_timestamps": {
+      "updated_by_human_at": 1586086536,
+      "lyrics_updated_at": 1586086536
+     },
+     "context": "James Brown",
+     "id": 67974,
+     "image_url": "https://images.genius.com/e6e348fdb8e4b0ba6bc6e11e2d43a0c8.306x306x1.jpg",
+     "link_title": "It\u2019s a Man\u2019s World by\u00a0James\u00a0Brown",
+     "title": "It's a Man's World",
+     "type": "Song",
+     "url": "https://genius.com/James-brown-its-a-mans-world-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3560968",
+      "body": {
+       "plain": "Released in 1966, this is one of Brown\u2019s most powerful and well received ballads. As well as a staple of his live shows for years to come."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3560968,
+      "pinned": false,
+      "share_url": "https://genius.com/3560968",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3560968/James-brown-its-a-mans-world/Its-a-mans-world",
+      "verified": false,
+      "votes_total": 12,
+      "current_user_metadata": {
+       "permissions": [
+        "vote",
+        "propose_edit_to",
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {
+        "accept": {
+         "primary": {
+          "multiplier": 1,
+          "base": 10.0,
+          "applicable": true
+         }
+        },
+        "reject": {
+         "primary": {
+          "multiplier": 1,
+          "base": 2.0,
+          "applicable": true
+         }
+        },
+        "delete": {
+         "primary": {
+          "multiplier": 1,
+          "base": 5.0,
+          "applicable": true
+         }
+        }
+       }
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3087770",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/13bf7cb313a7d88291ffd0a659f37bd2",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/13bf7cb313a7d88291ffd0a659f37bd2",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/13bf7cb313a7d88291ffd0a659f37bd2",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/13bf7cb313a7d88291ffd0a659f37bd2",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/13bf7cb313a7d88291ffd0a659f37bd2",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3087770,
+         "iq": 1300,
+         "login": "MoreMartinThanMartin",
+         "name": "MoreMartinThanMartin",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/MoreMartinThanMartin",
+         "current_user_metadata": {
+          "permissions": [
+           "follow"
+          ],
+          "excluded_permissions": [],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:6AIB4vBOGWM4FJ65yNWaXu",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/6AIB4vBOGWM4FJ65yNWaXu"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=QCdc1YW001Q"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/8417",
+    "header_image_url": "https://s3.amazonaws.com/rapgenius/james_brown.jpg",
+    "id": 8417,
+    "image_url": "https://s3.amazonaws.com/rapgenius/james_brown.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "James Brown",
+    "url": "https://genius.com/artists/James-brown"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/8417",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/james_brown.jpg",
+     "id": 8417,
+     "image_url": "https://s3.amazonaws.com/rapgenius/james_brown.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "James Brown",
+     "url": "https://genius.com/artists/James-brown"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": [
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/9319",
+       "full_title": "Man's World by\u00a0Beanie\u00a0Sigel",
+       "header_image_thumbnail_url": "https://images.genius.com/bf8c5034f8552cd568d53398bc41222f.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/bf8c5034f8552cd568d53398bc41222f.500x500x1.jpg",
+       "id": 9319,
+       "lyrics_owner_id": 50,
+       "lyrics_state": "complete",
+       "path": "/Beanie-sigel-mans-world-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/bf8c5034f8552cd568d53398bc41222f.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/bf8c5034f8552cd568d53398bc41222f.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Man\u2019s World",
+       "title_with_featured": "Man's World",
+       "url": "https://genius.com/Beanie-sigel-mans-world-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/119",
+        "header_image_url": "https://images.genius.com/e6158abb198d669ae1939b5fa05c20d6.1000x563x1.jpg",
+        "id": 119,
+        "image_url": "https://images.genius.com/ca482029f1aca4d2f2a6dec2d36da526.730x730x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Beanie Sigel",
+        "url": "https://genius.com/artists/Beanie-sigel",
+        "iq": 115
+       }
+      },
+      {
+       "annotation_count": 24,
+       "api_path": "/songs/22935",
+       "full_title": "It's a Man's World by\u00a0Ice\u00a0Cube (Ft.\u00a0Yo-Yo)",
+       "header_image_thumbnail_url": "https://images.genius.com/daba771488301f2341dbce49714b74d7.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/daba771488301f2341dbce49714b74d7.635x635x1.jpg",
+       "id": 22935,
+       "lyrics_owner_id": 50,
+       "lyrics_state": "complete",
+       "path": "/Ice-cube-its-a-mans-world-lyrics",
+       "pyongs_count": 1,
+       "song_art_image_thumbnail_url": "https://images.genius.com/daba771488301f2341dbce49714b74d7.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/daba771488301f2341dbce49714b74d7.635x635x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false,
+        "pageviews": 12524
+       },
+       "title": "It\u2019s a Man\u2019s World",
+       "title_with_featured": "It's a Man's World (Ft.\u00a0Yo-Yo)",
+       "url": "https://genius.com/Ice-cube-its-a-mans-world-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/186",
+        "header_image_url": "https://images.genius.com/c457bbdb72f694aa2707c388b36e7230.960x764x1.jpg",
+        "id": 186,
+        "image_url": "https://images.genius.com/c457bbdb72f694aa2707c388b36e7230.960x764x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Ice Cube",
+        "url": "https://genius.com/artists/Ice-cube",
+        "iq": 2630
+       }
+      },
+      {
+       "annotation_count": 20,
+       "api_path": "/songs/23009",
+       "full_title": "Jackin' For Beats by\u00a0Ice\u00a0Cube",
+       "header_image_thumbnail_url": "https://images.genius.com/6c223fafae72a06b4952ce4b3f7e6b7a.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/6c223fafae72a06b4952ce4b3f7e6b7a.992x991x1.jpg",
+       "id": 23009,
+       "lyrics_owner_id": 50,
+       "lyrics_state": "complete",
+       "path": "/Ice-cube-jackin-for-beats-lyrics",
+       "pyongs_count": 2,
+       "song_art_image_thumbnail_url": "https://images.genius.com/6c223fafae72a06b4952ce4b3f7e6b7a.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/6c223fafae72a06b4952ce4b3f7e6b7a.992x991x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 5,
+        "hot": false,
+        "pageviews": 17169
+       },
+       "title": "Jackin\u2019 For Beats",
+       "title_with_featured": "Jackin' For Beats",
+       "url": "https://genius.com/Ice-cube-jackin-for-beats-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/186",
+        "header_image_url": "https://images.genius.com/c457bbdb72f694aa2707c388b36e7230.960x764x1.jpg",
+        "id": 186,
+        "image_url": "https://images.genius.com/c457bbdb72f694aa2707c388b36e7230.960x764x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Ice Cube",
+        "url": "https://genius.com/artists/Ice-cube",
+        "iq": 2630
+       }
+      },
+      {
+       "annotation_count": 8,
+       "api_path": "/songs/54199",
+       "full_title": "Man's World by\u00a0Guilty\u00a0Simpson",
+       "header_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/Guilty_Simpson21.jpg",
+       "header_image_url": "https://s3.amazonaws.com/rapgenius/Guilty_Simpson21.jpg",
+       "id": 54199,
+       "lyrics_owner_id": 26787,
+       "lyrics_state": "complete",
+       "path": "/Guilty-simpson-mans-world-lyrics",
+       "pyongs_count": 1,
+       "song_art_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/Guilty_Simpson21.jpg",
+       "song_art_image_url": "https://s3.amazonaws.com/rapgenius/Guilty_Simpson21.jpg",
+       "stats": {
+        "unreviewed_annotations": 4,
+        "hot": false
+       },
+       "title": "Man\u2019s World",
+       "title_with_featured": "Man's World",
+       "url": "https://genius.com/Guilty-simpson-mans-world-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/2313",
+        "header_image_url": "https://s3.amazonaws.com/rapgenius/Guilty_Simpson21.jpg",
+        "id": 2313,
+        "image_url": "https://s3.amazonaws.com/rapgenius/Guilty_Simpson21.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Guilty Simpson",
+        "url": "https://genius.com/artists/Guilty-simpson"
+       }
+      },
+      {
+       "annotation_count": 4,
+       "api_path": "/songs/344010",
+       "full_title": "Fallin' by\u00a0Alicia\u00a0Keys",
+       "header_image_thumbnail_url": "https://images.genius.com/10a8d6d8ef7a6f5814bebec201c65d57.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/10a8d6d8ef7a6f5814bebec201c65d57.578x578x1.jpg",
+       "id": 344010,
+       "lyrics_owner_id": 185128,
+       "lyrics_state": "complete",
+       "path": "/Alicia-keys-fallin-lyrics",
+       "pyongs_count": 39,
+       "song_art_image_thumbnail_url": "https://images.genius.com/bae3948481a5f64a0bd49536d6842a35.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/bae3948481a5f64a0bd49536d6842a35.640x640x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 139669
+       },
+       "title": "Fallin\u2019",
+       "title_with_featured": "Fallin'",
+       "url": "https://genius.com/Alicia-keys-fallin-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/362",
+        "header_image_url": "https://images.genius.com/412c2555944cf7956626a5ae615b25ba.1000x521x1.jpg",
+        "id": 362,
+        "image_url": "https://images.genius.com/27e1398c2217ee2d2742ac289213c774.749x749x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Alicia Keys",
+        "url": "https://genius.com/artists/Alicia-keys"
+       }
+      },
+      {
+       "annotation_count": 39,
+       "api_path": "/songs/578830",
+       "full_title": "Es rappelt im Karton by\u00a0Kool\u00a0Savas",
+       "header_image_thumbnail_url": "https://images.genius.com/208ba1b6f9c7008c754652b42c5c676e.300x299x1.png",
+       "header_image_url": "https://images.genius.com/208ba1b6f9c7008c754652b42c5c676e.899x896x1.png",
+       "id": 578830,
+       "lyrics_owner_id": 251069,
+       "lyrics_state": "complete",
+       "path": "/Kool-savas-es-rappelt-im-karton-lyrics",
+       "pyongs_count": 4,
+       "song_art_image_thumbnail_url": "https://images.genius.com/208ba1b6f9c7008c754652b42c5c676e.300x299x1.png",
+       "song_art_image_url": "https://images.genius.com/208ba1b6f9c7008c754652b42c5c676e.899x896x1.png",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 36466
+       },
+       "title": "Es rappelt im Karton",
+       "title_with_featured": "Es rappelt im Karton",
+       "url": "https://genius.com/Kool-savas-es-rappelt-im-karton-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/11830",
+        "header_image_url": "https://images.genius.com/96534d7ca977462a23c79c9f29163a8e.374x374x1.jpg",
+        "id": 11830,
+        "image_url": "https://images.genius.com/96534d7ca977462a23c79c9f29163a8e.374x374x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Kool Savas",
+        "url": "https://genius.com/artists/Kool-savas",
+        "iq": 3859
+       }
+      },
+      {
+       "annotation_count": 9,
+       "api_path": "/songs/2892584",
+       "full_title": "Nasty's World by\u00a0A$AP\u00a0Mob (Ft.\u00a0A$AP\u00a0NAST & Onyx)",
+       "header_image_thumbnail_url": "https://images.genius.com/bb498d327c020c240c2489256f22c120.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/bb498d327c020c240c2489256f22c120.1000x1000x1.jpg",
+       "id": 2892584,
+       "lyrics_owner_id": 1766304,
+       "lyrics_state": "complete",
+       "path": "/A-ap-mob-nastys-world-lyrics",
+       "pyongs_count": 7,
+       "song_art_image_thumbnail_url": "https://images.genius.com/bb498d327c020c240c2489256f22c120.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/bb498d327c020c240c2489256f22c120.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 4,
+        "hot": false,
+        "pageviews": 62245
+       },
+       "title": "Nasty\u2019s World",
+       "title_with_featured": "Nasty's World (Ft.\u00a0A$AP\u00a0NAST & Onyx)",
+       "url": "https://genius.com/A-ap-mob-nastys-world-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/21894",
+        "header_image_url": "https://images.genius.com/d329b88fe626d4bfec275baa1c226d78.960x480x1.jpg",
+        "id": 21894,
+        "image_url": "https://images.genius.com/46e736f7bfd968b40dc1d81e12c70576.1000x1000x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "A$AP Mob",
+        "url": "https://genius.com/artists/A-ap-mob",
+        "iq": 100
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": [
+      {
+       "annotation_count": 9,
+       "api_path": "/songs/2892584",
+       "full_title": "Nasty's World by\u00a0A$AP\u00a0Mob (Ft.\u00a0A$AP\u00a0NAST & Onyx)",
+       "header_image_thumbnail_url": "https://images.genius.com/bb498d327c020c240c2489256f22c120.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/bb498d327c020c240c2489256f22c120.1000x1000x1.jpg",
+       "id": 2892584,
+       "lyrics_owner_id": 1766304,
+       "lyrics_state": "complete",
+       "path": "/A-ap-mob-nastys-world-lyrics",
+       "pyongs_count": 7,
+       "song_art_image_thumbnail_url": "https://images.genius.com/bb498d327c020c240c2489256f22c120.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/bb498d327c020c240c2489256f22c120.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 4,
+        "hot": false,
+        "pageviews": 62245
+       },
+       "title": "Nasty\u2019s World",
+       "title_with_featured": "Nasty's World (Ft.\u00a0A$AP\u00a0NAST & Onyx)",
+       "url": "https://genius.com/A-ap-mob-nastys-world-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/21894",
+        "header_image_url": "https://images.genius.com/d329b88fe626d4bfec275baa1c226d78.960x480x1.jpg",
+        "id": 21894,
+        "image_url": "https://images.genius.com/46e736f7bfd968b40dc1d81e12c70576.1000x1000x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "A$AP Mob",
+        "url": "https://genius.com/artists/A-ap-mob",
+        "iq": 100
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/135234",
+       "full_title": "It\u2019s a Man\u2019s Man\u2019s Man\u2019s World by\u00a0Tom\u00a0Jones",
+       "header_image_thumbnail_url": "https://images.genius.com/ae47db98bd50b2f0b141f97cb8263220.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/ae47db98bd50b2f0b141f97cb8263220.600x600x1.jpg",
+       "id": 135234,
+       "lyrics_owner_id": 19602,
+       "lyrics_state": "complete",
+       "path": "/Tom-jones-its-a-mans-mans-mans-world-annotated",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/ae47db98bd50b2f0b141f97cb8263220.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/ae47db98bd50b2f0b141f97cb8263220.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "It\u2019s a Man\u2019s Man\u2019s Man\u2019s World",
+       "title_with_featured": "It\u2019s a Man\u2019s Man\u2019s Man\u2019s World",
+       "url": "https://genius.com/Tom-jones-its-a-mans-mans-mans-world-annotated",
+       "primary_artist": {
+        "api_path": "/artists/11195",
+        "header_image_url": "https://images.genius.com/20895530f2bd2a27a1b423e385aee66d.361x140x1.png",
+        "id": 11195,
+        "image_url": "https://images.genius.com/3eadd026cb04927c99aa4de2d44139fd.479x600x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Tom Jones",
+        "url": "https://genius.com/artists/Tom-jones"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2129421",
+       "full_title": "It\u2019s a man\u2019s world by\u00a0Cunio",
+       "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1587151445",
+       "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1587151445",
+       "id": 2129421,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Cunio-its-a-mans-world-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1587151445",
+       "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1587151445",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "It\u2019s a man\u2019s world",
+       "title_with_featured": "It\u2019s a man\u2019s world",
+       "url": "https://genius.com/Cunio-its-a-mans-world-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1914363",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+        "id": 1914363,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Cunio",
+        "url": "https://genius.com/artists/Cunio"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/2920058",
+       "full_title": "It's a Man's Man's Man's World by\u00a0Sisaundra\u00a0Lewis",
+       "header_image_thumbnail_url": "https://images.genius.com/aa4de1c573e6faa6b417a7b0c94affff.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/aa4de1c573e6faa6b417a7b0c94affff.600x600x1.jpg",
+       "id": 2920058,
+       "lyrics_owner_id": 2204204,
+       "lyrics_state": "complete",
+       "path": "/Sisaundra-lewis-its-a-mans-mans-mans-world-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/aa4de1c573e6faa6b417a7b0c94affff.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/aa4de1c573e6faa6b417a7b0c94affff.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "It\u2019s a Man\u2019s Man\u2019s Man\u2019s World",
+       "title_with_featured": "It's a Man's Man's Man's World",
+       "url": "https://genius.com/Sisaundra-lewis-its-a-mans-mans-mans-world-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1038909",
+        "header_image_url": "https://images.genius.com/89b0fad96ada357112345eb898865a7f.618x412x1.jpg",
+        "id": 1038909,
+        "image_url": "https://images.genius.com/e52b28e526777f8ff595ee7f9346043f.350x350x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Sisaundra Lewis",
+        "url": "https://genius.com/artists/Sisaundra-lewis"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4829419",
+       "full_title": "This is a man's man's world by\u00a0Sa\u00e2da\u00a0Bonaire",
+       "header_image_thumbnail_url": "https://images.genius.com/2732f9f3acbd5a8c386f8b79cb8f4bec.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/2732f9f3acbd5a8c386f8b79cb8f4bec.1000x1000x1.jpg",
+       "id": 4829419,
+       "lyrics_owner_id": 1091826,
+       "lyrics_state": "unreleased",
+       "path": "/Saada-bonaire-this-is-a-mans-mans-world-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/2732f9f3acbd5a8c386f8b79cb8f4bec.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/2732f9f3acbd5a8c386f8b79cb8f4bec.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "This is a man\u2019s man\u2019s world",
+       "title_with_featured": "This is a man's man's world",
+       "url": "https://genius.com/Saada-bonaire-this-is-a-mans-mans-world-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1527395",
+        "header_image_url": "https://images.genius.com/375b49e1bc1b9cead08096a02ab5166d.600x357x1.jpg",
+        "id": 1527395,
+        "image_url": "https://images.genius.com/2732f9f3acbd5a8c386f8b79cb8f4bec.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Sa\u00e2da Bonaire",
+        "url": "https://genius.com/artists/Saada-bonaire"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5319323",
+       "full_title": "Mondo Di Uomini by\u00a0Lucio\u00a0Dalla",
+       "header_image_thumbnail_url": "https://images.genius.com/7623817b23a715c3f6391e1e619fa539.300x306x1.jpg",
+       "header_image_url": "https://images.genius.com/7623817b23a715c3f6391e1e619fa539.505x515x1.jpg",
+       "id": 5319323,
+       "lyrics_owner_id": 5818919,
+       "lyrics_state": "complete",
+       "path": "/Lucio-dalla-mondo-di-uomini-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/7623817b23a715c3f6391e1e619fa539.300x306x1.jpg",
+       "song_art_image_url": "https://images.genius.com/7623817b23a715c3f6391e1e619fa539.505x515x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Mondo Di Uomini",
+       "title_with_featured": "Mondo Di Uomini",
+       "url": "https://genius.com/Lucio-dalla-mondo-di-uomini-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/328592",
+        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/JhhxoVQTp2vF3Pxy9M3z_lucio_dalla_radiobirikina03.jpg",
+        "id": 328592,
+        "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/Txtqe0gmSe8bnNpl9Xgq_lucio1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Lucio Dalla",
+        "url": "https://genius.com/artists/Lucio-dalla"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/684233",
+     "header_image_url": "https://images.genius.com/4d9710e17d50161abed1df632e1cfebe.297x297x1.jpg",
+     "id": 684233,
+     "image_url": "https://images.genius.com/4d9710e17d50161abed1df632e1cfebe.297x297x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Betty Jean Newsome",
+     "url": "https://genius.com/artists/Betty-jean-newsome"
+    },
+    {
+     "api_path": "/artists/8417",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/james_brown.jpg",
+     "id": 8417,
+     "image_url": "https://s3.amazonaws.com/rapgenius/james_brown.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "James Brown",
+     "url": "https://genius.com/artists/James-brown"
+    }
+   ],
+   "lyrics": "[Chorus]\nThis is a man's world\nThis is a man's world\nBut it wouldn't be nothing\nNothing without a woman or a girl\n\n[Verse 1]\nYou see man made the cars\nTo take us over the road\nMan made the train\nTo carry the heavy load\nMan made the electric light\nTo take us out of the dark\nMan made the boat for the water\nLike Noah made the ark\n\n[Chorus]\nThis is a man's world\nThis is a man's world\nBut it wouldn't be nothing\nNothing without a woman or a girl\n\n\n[Verse 2]\nMan think about a little bit of baby girls\nAnd a baby boys\nMan makes them happy\nCause man makes them toys\nAnd after man make everything everything he can\nEven though the man makes money\nTo buy from other man\n\n[Chorus]\nThis is a man's world\nThis is a man's world\nBut it wouldn't be nothing\nNothing without a woman or a girl\n\n\n[Outro]\nOh how, how man needs a woman\nI sympathize with the man that don't have a woman\nHe's lost in the wilderness\nHe's lost in bitterness\nHe's lost in loneliness"
+  }
+ ]
+}

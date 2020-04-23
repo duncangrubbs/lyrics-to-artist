@@ -1,0 +1,1335 @@
+{
+ "alternate_names": [
+  "Boo Wilbury",
+  "Lucky Wilbury",
+  "Robert Zimmerman",
+  "Robert A. Zimmerman",
+  "Robert Dylan",
+  "Robert Allen Zimmerman"
+ ],
+ "api_path": "/artists/181",
+ "description": {
+  "plain": "Bob Dylan (born Robert Zimmerman May 24, 1941), is an American singer-songwriter, writer, and artist who has influenced popular music and culture for more than five decades. Dylan has especially played a critical role in the American folk music revival.\n\nDylan\u2019s songs are built from myriad political, social, philosophical and literary influences. Many of his anti-war and civil-rights-influenced songs set social unrest, as journalists widely named him the \u201cspokesman for his generation\u201d in the 1960s.\n\nThe musician has a signature change in voice and style in many different albums of his throughout the decades. He has notably explored and experimented with the genres of folk, rap, blues, and rock.\n\nBob Dylan has sold more than 100 million records, making him one of the best-selling artists of all time. He has also played over 2,000 live shows, and is currently on a \u201cNever Ending Tour\u201d that is still going on since 1988. In 2016, Dylan became the first songwriter to be awarded the prestigious Nobel Prize in Literature."
+ },
+ "facebook_name": "bobdylan\u200e",
+ "followers_count": 450,
+ "header_image_url": "https://images.genius.com/facc753d420efc53bbe1e0b63a72d70b.960x719x1.jpg",
+ "id": 181,
+ "image_url": "https://images.genius.com/22306423b6ad8777d1ed5b33ad8b0d0b.1000x1000x1.jpg",
+ "instagram_name": "",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Bob Dylan",
+ "translation_artist": false,
+ "twitter_name": "bobdylan",
+ "url": "https://genius.com/artists/Bob-dylan",
+ "current_user_metadata": {
+  "permissions": [
+   "follow",
+   "view_activity_stream",
+   "view_contribution_opportunities"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 4,
+  "annotator_login": "murkle",
+  "api_path": "/referents/6925802",
+  "classification": "accepted",
+  "fragment": "Bob Dylan",
+  "id": 6925802,
+  "is_description": true,
+  "path": "/6925802/Bob-dylan/Bob-dylan",
+  "range": {
+   "content": "Bob Dylan"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6925802/Bob-dylan/Bob-dylan",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/181",
+   "context": null,
+   "id": 181,
+   "image_url": "https://images.genius.com/22306423b6ad8777d1ed5b33ad8b0d0b.1000x1000x1.jpg",
+   "link_title": "Bob Dylan",
+   "title": "Bob Dylan",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Bob-dylan"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6925802",
+    "body": {
+     "plain": "Bob Dylan (born Robert Zimmerman May 24, 1941), is an American singer-songwriter, writer, and artist who has influenced popular music and culture for more than five decades. Dylan has especially played a critical role in the American folk music revival.\n\nDylan\u2019s songs are built from myriad political, social, philosophical and literary influences. Many of his anti-war and civil-rights-influenced songs set social unrest, as journalists widely named him the \u201cspokesman for his generation\u201d in the 1960s.\n\nThe musician has a signature change in voice and style in many different albums of his throughout the decades. He has notably explored and experimented with the genres of folk, rap, blues, and rock.\n\nBob Dylan has sold more than 100 million records, making him one of the best-selling artists of all time. He has also played over 2,000 live shows, and is currently on a \u201cNever Ending Tour\u201d that is still going on since 1988. In 2016, Dylan became the first songwriter to be awarded the prestigious Nobel Prize in Literature."
+    },
+    "comment_count": 1,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6925802,
+    "pinned": false,
+    "share_url": "https://genius.com/6925802",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6925802/Bob-dylan/Bob-dylan",
+    "verified": false,
+    "votes_total": 56,
+    "current_user_metadata": {
+     "permissions": [
+      "vote",
+      "propose_edit_to",
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {
+      "accept": {
+       "primary": {
+        "multiplier": 1,
+        "base": 10.0,
+        "applicable": true
+       }
+      },
+      "reject": {
+       "primary": {
+        "multiplier": 1,
+        "base": 2.0,
+        "applicable": true
+       }
+      },
+      "delete": {
+       "primary": {
+        "multiplier": 1,
+        "base": 5.0,
+        "applicable": true
+       }
+      }
+     }
+    },
+    "authors": [
+     {
+      "attribution": 0.8035714285714286,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/367095",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/518ade89a858fffce450ae7989332a0a",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/518ade89a858fffce450ae7989332a0a",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/518ade89a858fffce450ae7989332a0a",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/518ade89a858fffce450ae7989332a0a",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/518ade89a858fffce450ae7989332a0a",
+       "human_readable_role_for_display": "Contributor",
+       "id": 367095,
+       "iq": 4436,
+       "login": "verifiedaccount",
+       "name": "verifiedaccount",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/verifiedaccount",
+       "current_user_metadata": {
+        "permissions": [
+         "follow"
+        ],
+        "excluded_permissions": [],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.05952380952380953,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1713313",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/d9b5c88b88763dfa1e7182f637a7715e",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/d9b5c88b88763dfa1e7182f637a7715e",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/d9b5c88b88763dfa1e7182f637a7715e",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/d9b5c88b88763dfa1e7182f637a7715e",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/d9b5c88b88763dfa1e7182f637a7715e",
+       "human_readable_role_for_display": "Editor",
+       "id": 1713313,
+       "iq": 40567,
+       "login": "MatthewDurrant",
+       "name": "MatthewDurrant",
+       "role_for_display": "editor",
+       "url": "https://genius.com/MatthewDurrant",
+       "current_user_metadata": {
+        "permissions": [
+         "follow"
+        ],
+        "excluded_permissions": [],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.05357142857142857,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/16",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/Sf2Ln6jT56GIeteSc7gq.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/Sf2Ln6jT56GIeteSc7gq.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/small/Sf2Ln6jT56GIeteSc7gq.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/Sf2Ln6jT56GIeteSc7gq.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/Sf2Ln6jT56GIeteSc7gq.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 16,
+       "iq": 511619,
+       "login": "SameOldShawn",
+       "name": "SameOldShawn",
+       "role_for_display": "editor",
+       "url": "https://genius.com/SameOldShawn",
+       "current_user_metadata": {
+        "permissions": [
+         "follow"
+        ],
+        "excluded_permissions": [],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.023809523809523808,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1544762",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/d5df7ef5fe8aca8224870b270ff27188",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/d5df7ef5fe8aca8224870b270ff27188",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/d5df7ef5fe8aca8224870b270ff27188",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/d5df7ef5fe8aca8224870b270ff27188",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/d5df7ef5fe8aca8224870b270ff27188",
+       "human_readable_role_for_display": "Editor",
+       "id": 1544762,
+       "iq": 45092,
+       "login": "urtalseenioop",
+       "name": "Max hiney \ud83c\udf38",
+       "role_for_display": "editor",
+       "url": "https://genius.com/urtalseenioop",
+       "current_user_metadata": {
+        "permissions": [
+         "follow"
+        ],
+        "excluded_permissions": [],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.01785714285714286,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2440225",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/3f8a363c7ab9c5a20ca7115f69a2a580",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/3f8a363c7ab9c5a20ca7115f69a2a580",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/3f8a363c7ab9c5a20ca7115f69a2a580",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/3f8a363c7ab9c5a20ca7115f69a2a580",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/3f8a363c7ab9c5a20ca7115f69a2a580",
+       "human_readable_role_for_display": "Contributor",
+       "id": 2440225,
+       "iq": 8075,
+       "login": "simulacreage",
+       "name": "simulacreage",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/simulacreage",
+       "current_user_metadata": {
+        "permissions": [
+         "follow"
+        ],
+        "excluded_permissions": [],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.01785714285714286,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4",
+       "avatar": {
+        "tiny": {
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1587151445",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1587151445",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1587151445",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+       "human_readable_role_for_display": "Contributor",
+       "id": 4,
+       "iq": 32810,
+       "login": "murkle",
+       "name": "Murklederderder",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/murkle",
+       "current_user_metadata": {
+        "permissions": [
+         "follow"
+        ],
+        "excluded_permissions": [],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.011904761904761904,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6931181",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2x5w2zv4d9m",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2x5w2zv4d9m",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2x5w2zv4d9m",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2x5w2zv4d9m",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/qlem5fzp9n",
+       "human_readable_role_for_display": "Editor",
+       "id": 6931181,
+       "iq": 22072,
+       "login": "indielens",
+       "name": "indielens",
+       "role_for_display": "editor",
+       "url": "https://genius.com/indielens",
+       "current_user_metadata": {
+        "permissions": [
+         "follow"
+        ],
+        "excluded_permissions": [],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.005952380952380952,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/5077322",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/f6c51eeb13288750bd6dd58f854c5f12",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/f6c51eeb13288750bd6dd58f854c5f12",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/f6c51eeb13288750bd6dd58f854c5f12",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/f6c51eeb13288750bd6dd58f854c5f12",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/d8c4727c568093ee9e0377761356d48b.1000x662x1.jpg",
+       "human_readable_role_for_display": "Moderator",
+       "id": 5077322,
+       "iq": 125059,
+       "login": "sitzpinkler",
+       "name": "Shashwat Bansal",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/sitzpinkler",
+       "current_user_metadata": {
+        "permissions": [
+         "follow"
+        ],
+        "excluded_permissions": [],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.005952380952380952,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/9706384",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/227cc068bfd8bdbd9ac9b59998ba885f",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/227cc068bfd8bdbd9ac9b59998ba885f",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/227cc068bfd8bdbd9ac9b59998ba885f",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/227cc068bfd8bdbd9ac9b59998ba885f",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/117g611sqf2",
+       "human_readable_role_for_display": null,
+       "id": 9706384,
+       "iq": 195,
+       "login": "suqqakacktus",
+       "name": "suqqakacktus",
+       "role_for_display": null,
+       "url": "https://genius.com/suqqakacktus",
+       "current_user_metadata": {
+        "permissions": [
+         "follow"
+        ],
+        "excluded_permissions": [],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 115,
+   "api_path": "/songs/5393247",
+   "apple_music_id": "1504560338",
+   "apple_music_player_url": "https://genius.com/songs/5393247/apple_music_player",
+   "description": {
+    "plain": "At midnight on March 27, 2020, Bob Dylan released \u201cMurder Most Foul\u201d\u2014his first studio release since March 2017\u2019s Triplicate and first original song release since September 2012\u2019s Tempest. He noted on Twitter that fans \u201cmight find [the song] interesting,\u201d adding:\n\nStay safe, stay observant and may God be with you.\n\nWith a title likely derived from Shakespeare\u2019s 1609 play, Hamlet, the song revolves around the circumstances of President John F. Kennedy\u2019s November 1963 assassination and its ensuing impact on popular culture; making many references to songs, films, musicians, artists, and celebrities who would come to prominence in the years following his death. Considering Dylan\u2019s sophomore album found success the same year as Kennedy\u2019s demise, the song also winds up being a retrospective on many cultural events running parallel to his long career as a songwriter.\n\n\n\nAt 16 minutes and 55 seconds, it is the longest song in Dylan\u2019s discography to date, surpassing \u201cHighlands\u201d from September 1997\u2019s Time Out Of Mind."
+   },
+   "embed_content": "<div id='rg_embed_link_5393247' class='rg_embed_link' data-song-id='5393247'>Read <a href='https://genius.com/Bob-dylan-murder-most-foul-lyrics'>\u201cMurder Most Foul\u201d by Bob\u00a0Dylan</a> on Genius</div> <script crossorigin src='//genius.com/songs/5393247/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Murder Most Foul by\u00a0Bob\u00a0Dylan",
+   "header_image_thumbnail_url": "https://images.genius.com/7fbaf838ffdf99315408faa29cb566ac.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/7fbaf838ffdf99315408faa29cb566ac.1000x1000x1.jpg",
+   "id": 5393247,
+   "lyrics_owner_id": 3360167,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Bob-dylan-murder-most-foul-lyrics",
+   "pyongs_count": 33,
+   "recording_location": null,
+   "release_date": "2020-03-27",
+   "release_date_for_display": "March 27, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/7fbaf838ffdf99315408faa29cb566ac.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/7fbaf838ffdf99315408faa29cb566ac.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 78,
+    "contributors": 143,
+    "iq_earners": 143,
+    "transcribers": 2,
+    "unreviewed_annotations": 36,
+    "verified_annotations": 0,
+    "concurrents": 2,
+    "hot": false,
+    "pageviews": 378282
+   },
+   "title": "Murder Most Foul",
+   "title_with_featured": "Murder Most Foul",
+   "url": "https://genius.com/Bob-dylan-murder-most-foul-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "follow",
+     "see_pageviews",
+     "pyong",
+     "add_community_annotation_to",
+     "view_apple_music_player",
+     "create_comment",
+     "create_annotation",
+     "view_song_story_gallery",
+     "propose_lyrics_edit"
+    ],
+    "excluded_permissions": [
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {
+     "pinned_role": null
+    },
+    "iq_by_action": {
+     "edit_metadata": {
+      "primary": {
+       "multiplier": 1,
+       "base": 2.0,
+       "applicable": true
+      }
+     }
+    }
+   },
+   "album": null,
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/30372",
+       "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+       "id": 30372,
+       "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Columbia Records",
+       "url": "https://genius.com/artists/Columbia-records",
+       "iq": 127
+      }
+     ]
+    },
+    {
+     "label": "Distributor",
+     "artists": [
+      {
+       "api_path": "/artists/88331",
+       "header_image_url": "https://images.genius.com/b46212847df33dcc782ffff51fc737b4.1000x207x1.png",
+       "id": 88331,
+       "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sony Music Entertainment",
+       "url": "https://genius.com/artists/Sony-music-entertainment"
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/88331",
+       "header_image_url": "https://images.genius.com/b46212847df33dcc782ffff51fc737b4.1000x207x1.png",
+       "id": 88331,
+       "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sony Music Entertainment",
+       "url": "https://genius.com/artists/Sony-music-entertainment"
+      },
+      {
+       "api_path": "/artists/30372",
+       "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+       "id": 30372,
+       "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Columbia Records",
+       "url": "https://genius.com/artists/Columbia-records",
+       "iq": 127
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3360167,
+    "annotator_login": "mada_nosibrah",
+    "api_path": "/referents/19393486",
+    "classification": "accepted",
+    "fragment": "Murder Most Foul",
+    "id": 19393486,
+    "is_description": true,
+    "path": "/19393486/Bob-dylan-murder-most-foul/Murder-most-foul",
+    "range": {
+     "content": "Murder Most Foul"
+    },
+    "song_id": 5393247,
+    "url": "https://genius.com/19393486/Bob-dylan-murder-most-foul/Murder-most-foul",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5393247",
+     "client_timestamps": {
+      "updated_by_human_at": 1587436615,
+      "lyrics_updated_at": 1587464441
+     },
+     "context": "Bob Dylan",
+     "id": 5393247,
+     "image_url": "https://images.genius.com/7fbaf838ffdf99315408faa29cb566ac.1000x1000x1.jpg",
+     "link_title": "Murder Most Foul by\u00a0Bob\u00a0Dylan",
+     "title": "Murder Most Foul",
+     "type": "Song",
+     "url": "https://genius.com/Bob-dylan-murder-most-foul-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19393486",
+      "body": {
+       "plain": "At midnight on March 27, 2020, Bob Dylan released \u201cMurder Most Foul\u201d\u2014his first studio release since March 2017\u2019s Triplicate and first original song release since September 2012\u2019s Tempest. He noted on Twitter that fans \u201cmight find [the song] interesting,\u201d adding:\n\nStay safe, stay observant and may God be with you.\n\nWith a title likely derived from Shakespeare\u2019s 1609 play, Hamlet, the song revolves around the circumstances of President John F. Kennedy\u2019s November 1963 assassination and its ensuing impact on popular culture; making many references to songs, films, musicians, artists, and celebrities who would come to prominence in the years following his death. Considering Dylan\u2019s sophomore album found success the same year as Kennedy\u2019s demise, the song also winds up being a retrospective on many cultural events running parallel to his long career as a songwriter.\n\n\n\nAt 16 minutes and 55 seconds, it is the longest song in Dylan\u2019s discography to date, surpassing \u201cHighlands\u201d from September 1997\u2019s Time Out Of Mind."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 19393486,
+      "pinned": false,
+      "share_url": "https://genius.com/19393486",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/19393486/Bob-dylan-murder-most-foul/Murder-most-foul",
+      "verified": false,
+      "votes_total": 84,
+      "current_user_metadata": {
+       "permissions": [
+        "vote",
+        "propose_edit_to",
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {
+        "accept": {
+         "primary": {
+          "multiplier": 1,
+          "base": 10.0,
+          "applicable": true
+         }
+        },
+        "reject": {
+         "primary": {
+          "multiplier": 1,
+          "base": 2.0,
+          "applicable": true
+         }
+        },
+        "delete": {
+         "primary": {
+          "multiplier": 1,
+          "base": 5.0,
+          "applicable": true
+         }
+        }
+       }
+      },
+      "authors": [
+       {
+        "attribution": 0.6492146596858639,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3360167",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/ba60f3ea745466ef70c24b77ceab6bf5",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/ba60f3ea745466ef70c24b77ceab6bf5",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/ba60f3ea745466ef70c24b77ceab6bf5",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/ba60f3ea745466ef70c24b77ceab6bf5",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/llp671ypunh",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3360167,
+         "iq": 2110,
+         "login": "mada_nosibrah",
+         "name": "mada_nosibrah",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/mada_nosibrah",
+         "current_user_metadata": {
+          "permissions": [
+           "follow"
+          ],
+          "excluded_permissions": [],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.13089005235602094,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2609021",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/ca27041f01d709504fa1c411ff742dd8",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/ca27041f01d709504fa1c411ff742dd8",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/ca27041f01d709504fa1c411ff742dd8",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/ca27041f01d709504fa1c411ff742dd8",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/ca27041f01d709504fa1c411ff742dd8",
+         "human_readable_role_for_display": "Editor",
+         "id": 2609021,
+         "iq": 4851,
+         "login": "DanielChristie",
+         "name": "DanielChristie",
+         "role_for_display": "editor",
+         "url": "https://genius.com/DanielChristie",
+         "current_user_metadata": {
+          "permissions": [
+           "follow"
+          ],
+          "excluded_permissions": [],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.12041884816753927,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1603328",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/98fd3350d7e66a87b9adc6df7331926a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/98fd3350d7e66a87b9adc6df7331926a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/98fd3350d7e66a87b9adc6df7331926a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/98fd3350d7e66a87b9adc6df7331926a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/24850b7a2d32780783b73aac074b5c6e.1000x333x1.png",
+         "human_readable_role_for_display": "Moderator",
+         "id": 1603328,
+         "iq": 324914,
+         "login": "kingkillmonger",
+         "name": "\u029e|a\u00e7e|w\u0153|k",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/kingkillmonger",
+         "current_user_metadata": {
+          "permissions": [
+           "follow"
+          ],
+          "excluded_permissions": [],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.07853403141361257,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2434830",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ctp8v02a7je",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ctp8v02a7je",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ctp8v02a7je",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ctp8v02a7je",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/43l1nep0a03",
+         "human_readable_role_for_display": "Staff",
+         "id": 2434830,
+         "iq": 2438,
+         "login": "cubeghost",
+         "name": "cubeghost",
+         "role_for_display": "staff",
+         "url": "https://genius.com/cubeghost",
+         "current_user_metadata": {
+          "permissions": [
+           "follow"
+          ],
+          "excluded_permissions": [],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.020942408376963352,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/10528342",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/f55cab70a404a64f4fb213e35ecd4fea",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/f55cab70a404a64f4fb213e35ecd4fea",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/f55cab70a404a64f4fb213e35ecd4fea",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/f55cab70a404a64f4fb213e35ecd4fea",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/f55cab70a404a64f4fb213e35ecd4fea",
+         "human_readable_role_for_display": null,
+         "id": 10528342,
+         "iq": 117,
+         "login": "RealWildStarHipHop",
+         "name": "RealWildStarHipHop",
+         "role_for_display": null,
+         "url": "https://genius.com/RealWildStarHipHop",
+         "current_user_metadata": {
+          "permissions": [
+           "follow"
+          ],
+          "excluded_permissions": [],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": {
+    "api_path": "/users/8388577",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/f9eba4b9db3384e2959b08abf4f2e8d9",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/f9eba4b9db3384e2959b08abf4f2e8d9",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/f9eba4b9db3384e2959b08abf4f2e8d9",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/f9eba4b9db3384e2959b08abf4f2e8d9",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ip3akdtz9q",
+    "human_readable_role_for_display": "Staff",
+    "id": 8388577,
+    "iq": 18445,
+    "login": "BaoTumbao",
+    "name": "BaoTumbao",
+    "role_for_display": "staff",
+    "url": "https://genius.com/BaoTumbao",
+    "current_user_metadata": {
+     "permissions": [
+      "follow"
+     ],
+     "excluded_permissions": [],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "attribution": "bobdylan",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/bobdylan/murder-most-foul"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=3NbQkyvbw18"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/181",
+    "header_image_url": "https://images.genius.com/facc753d420efc53bbe1e0b63a72d70b.960x719x1.jpg",
+    "id": 181,
+    "image_url": "https://images.genius.com/22306423b6ad8777d1ed5b33ad8b0d0b.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Bob Dylan",
+    "url": "https://genius.com/artists/Bob-dylan"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/181",
+     "header_image_url": "https://images.genius.com/facc753d420efc53bbe1e0b63a72d70b.960x719x1.jpg",
+     "id": 181,
+     "image_url": "https://images.genius.com/22306423b6ad8777d1ed5b33ad8b0d0b.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bob Dylan",
+     "url": "https://genius.com/artists/Bob-dylan"
+    }
+   ],
+   "lyrics": "[Verse 1]\nIt was a dark day in Dallas, November '63\nA day that will live on in\u2005infamy\nPresident\u2005Kennedy was a-ridin'\u2005high\nGood day to be livin' and\u2005a good day to die\nBeing led to the slaughter like a sacrificial lamb\nHe said, \"Wait a minute, boys, you know who I am?\"\n\"Of course we do, we know who you are\"\nThen they blew off his head while he was still in the car\nShot down like a dog in broad daylight\nWas a matter of timing and the timing was right\nYou got unpaid debts, we've come to collect\nWe're gonna kill you with hatred, without any respect\nWe'll mock you and shock you and we'll put it in your face\nWe've already got someone here to take your place\nThe day they blew out the brains of the king\nThousands were watching, no one saw a thing\nIt happened so quickly, so quick, by surprise\nRight there in front of everyone's eyes\nGreatest magic trick ever under the sun\nPerfectly executed, skillfully done\nWolfman, oh Wolfman, oh Wolfman, howl\nRub-a-dub-dub, it's a murder most foul\n\n[Verse 2]\nHush, little children, you'll understand\nThe Beatles are comin', they're gonna hold your hand\nSlide down the banister, go get your coat\nFerry 'cross the Mersey and go for the throat\nThere's three bums comin' all dressed in rags\nPick up the pieces and lower the flags\nI'm goin' to Woodstock, it's the Aquarian Age\nThen I'll go over to Altamont and sit near the stage\nPut your head out the window, let the good times roll\nThere's a party going on behind the Grassy Knoll\nStack up the bricks, pour the cement\nDon't say Dallas don't love you, Mr. President\nPut your foot in the tank and then step on the gas\nTry to make it to the triple underpass\nBlackface singer, whiteface clown\nBetter not show your faces after the sun goes down\nUp in the red light district, they've got cop on the beat\nLiving in a nightmare on Elm Street\nWhen you're down on Deep Ellum, put your money in your shoe\nDon't ask what your country can do for you\nCash on the barrelhead, money to burn\nDealey Plaza, make a left-hand turn\nI'm going down to the crossroads, gonna flag a ride\nThe place where faith, hope, and charity died\nShoot him while he runs, boy, shoot him while you can\nSee if you can shoot the invisible man\nGoodbye, Charlie, goodbye, Uncle Sam\nFrankly, Miss Scarlett, I don't give a damn\nWhat is the truth, and where did it go?\nAsk Oswald and Ruby, they oughta know\n\"Shut your mouth,\" said a wise old owl\nBusiness is business, and it's a murder most foul\n\n[Verse 3]\nTommy, can you hear me? I'm the Acid Queen\nI'm riding in a long, black Lincoln limousine\nRidin' in the back seat next to my wife\nHeaded straight on in to the afterlife\nI'm leaning to the left, I got my head in her lap\nHold on, I've been led into some kind of a trap\nWhere we ask no quarter, and no quarter do we give\nWe're right down the street, from the street where you live\nThey mutilated his body and they took out his brain\nWhat more could they do? They piled on the pain\nBut his soul was not there where it was supposed to be at\nFor the last fifty years they've been searchin' for that\nFreedom, oh freedom, freedom over me\nI hate to tell you, mister, but only dead men are free\nSend me some lovin', then tell me no lie\nThrow the gun in the gutter and walk on by\nWake up, little Susie, let's go for a drive\nCross the Trinity River, let's keep hope alive\nTurn the radio on, don't touch the dials\nParkland Hospital, only six more miles\nYou got me dizzy, Miss Lizzy, you filled me with lead\nThat magic bullet of yours has gone to my head\nI'm just a patsy like Patsy Cline\nNever shot anyone from in front or behind\nI've blood in my eye, got blood in my ear\nI'm never gonna make it to the new frontier\nZapruder's film I seen night before\nSeen it thirty-three times, maybe more\nIt's vile and deceitful, it's cruel and it's mean\nUgliest thing that you ever have seen\nThey killed him once and they killed him twice\nKilled him like a human sacrifice\nThe day that they killed him, someone said to me, \"Son\nThe age of the Antichrist has just only begun\"\nAir Force One comin' in through the gate\nJohnson sworn in at 2:38\nLet me know when you decide to throw in the towel\nIt is what it is, and it's murder most foul\n\n[Verse 4]\nWhat's new, pussycat? What'd I say?\nI said the soul of a nation been torn away\nAnd it's beginning to go into a slow decay\nAnd that it's thirty-six hours past Judgment Day\nWolfman Jack, he's speaking in tongues\nHe's going on and on at the top of his lungs\nPlay me a song, Mr. Wolfman Jack\nPlay it for me in my long Cadillac\nPlay me that \"Only the Good Die Young\"\nTake me to the place Tom Dooley was hung\nPlay \"St. James Infirmary\" and the Court of King James\nIf you want to remember, you better write down the names\nPlay Etta James, too, play \"I'd Rather Go Blind\"\nPlay it for the man with the telepathic mind\nPlay John Lee Hooker, play \"Scratch My Back\"\nPlay it for that strip club owner named Jack\nGuitar Slim going down slow\nPlay it for me and for Marilyn Monroe\n\n[Verse 5]\nPlay \"Please Don't Let Me Be Misunderstood\"\nPlay it for the First Lady, she ain't feeling any good\nPlay Don Henley, play Glenn Frey\nTake it to the limit and let it go by\nPlay it for Carl Wilson, too\nLooking far, far away down Gower Avenue\nPlay \"Tragedy\", play \"Twilight Time\"\nTake me back to Tulsa to the scene of the crime\nPlay another one and \"Another One Bites the Dust\"\nPlay \"The Old Rugged Cross\" and \"In God We Trust\"\nRide the pink horse down that long, lonesome road\nStand there and wait for his head to explode\nPlay \"Mystery Train\" for Mr. Mystery\nThe man who fell down dead like a rootless tree\nPlay it for the reverend, play it for the pastor\nPlay it for the dog that got no master\nPlay Oscar Peterson, play Stan Getz\nPlay \"Blue Sky,\" play Dickey Betts\nPlay Art Pepper, Thelonious Monk\nCharlie Parker and all that junk\nAll that junk and \"All That Jazz\"\nPlay something for the Birdman of Alcatraz\nPlay Buster Keaton, play Harold Lloyd\nPlay Bugsy Siegel, play Pretty Boy Floyd\nPlay the numbers, play the odds\nPlay \"Cry Me a River\" for the Lord of the gods\nPlay Number nine, play Number six\nPlay it for Lindsey and Stevie Nicks\nPlay Nat King Cole, play \"Nature Boy\"\nPlay \"Down in the Boondocks\" for Terry Malloy\nPlay \"It Happened One Night\" and \"One Night of Sin\"\nThere's twelve million souls that are listening in\nPlay \"Merchant of Venice\", play \"Merchants of Death\"\nPlay \"Stella by Starlight\" for Lady Macbeth\nDon't worry, Mr. President, help's on the way\nYour brothers are comin', there'll be hell to pay\nBrothers? What brothers? What's this about hell?\nTell them, \"We're waiting, keep coming,\" we'll get them as well\nLove Field is where his plane touched down\nBut it never did get back up off the ground\nWas a hard act to follow, second to none\nThey killed him on the altar of the rising sun\nPlay \"Misty\" for me and \"That Old Devil Moon\"\nPlay \"Anything Goes\" and \"Memphis in June\"\nPlay \"Lonely at the Top\" and \"Lonely Are the Brave\"\nPlay it for Houdini spinning around in his grave\nPlay Jelly Roll Morton, play \"Lucille\"\nPlay \"Deep in a Dream\", and play \"Driving Wheel\"\nPlay \"Moonlight Sonata\" in F-sharp\nAnd \"A Key to the Highway\" for the king on the harp\nPlay \"Marching Through Georgia\" and \"Dumbarton's Drums\"\nPlay \"Darkness\" and death will come when it comes\nPlay \"Love Me or Leave Me\" by the great Bud Powell\nPlay \"The Blood-Stained Banner\", play \"Murder Most Foul\""
+  }
+ ]
+}
